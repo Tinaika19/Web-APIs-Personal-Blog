@@ -25,18 +25,18 @@ As a student, I want a personal blog so that I can showcase my thoughts and expe
 
 ## File Structure
 my-blog
-├── assets
-│ ├── css
-│ │ ├── blog.css
-│ │ ├── form.css
-│ │ └── styles.css
-│ └── js
-│ ├── blog.js
-│ ├── form.js
-│ └── logic.js
-├── index.html
-├── blog.html
-└── README.md
+├── assets<br>
+│ ├── CSS <br>
+│ │ ├── blog.css <br>
+│ │ ├── form.css <br>
+│ │ └── styles.css <br>
+│ └── js <br>
+│ ├── blog.js <br>
+│ ├── form.js <br>
+│ └── logic.js <br>
+├── index.html <br>
+├── blog.html <br>
+└── README.md <br>
 
 ## Features
 
