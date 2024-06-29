@@ -24,7 +24,7 @@ As a student, I want a personal blog so that I can showcase my thoughts and expe
   - The footer contains a link to the developer's portfolio.
 
 ## File Structure
-my-blog
+my-blog <br>
 ├── assets<br>
 │ ├── CSS <br>
 │ │ ├── blog.css <br>
