@@ -51,6 +51,7 @@ my-blog <br>
 
 ## ScreenShot
 ![Screenshot of the application](assets/css/screenshot.JPG)
+![Screenshot of the blog](assets/css/blog_picture.JPG)
 
 ## Link
 https://tinaika19.github.io/Web-APIs-Personal-Blog/
